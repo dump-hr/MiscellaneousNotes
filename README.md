@@ -3,6 +3,7 @@
 ## Web design
 ### Images
  * [favicon-generator.org](http://www.favicon-generator.org/)
+ * [compressor.io](https://compressor.io/)
  
 ### Colors
   * [color.adobe.com aka Kuler](https://color.adobe.com/)
