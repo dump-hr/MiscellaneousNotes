@@ -19,3 +19,8 @@
  * [Distribute Layers Horizontally](http://morris-photographics.com/photoshop/scripts/distribute-horizontally.html)
  * [Distribute Layers Vertically](http://morris-photographics.com/photoshop/scripts/distribute-vertically.html)
  * [GuideGuide](http://guideguide.me/)
+
+
+## Learning resources/articles
+### Design
+ * [Speed Design with Illustrator](http://www.designsprint.net/)
