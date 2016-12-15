@@ -4,6 +4,7 @@
 ### Images
  * [favicon-generator.org](http://www.favicon-generator.org/)
  * [compressor.io](https://compressor.io/)
+ * [Always Up-To-Date Social Media Image Sizes Cheat Sheet](https://docs.google.com/spreadsheets/d/1IpTYTTMJLcSXcPDtW9zSbPBHQyRdrLfKERohGIIkE_Q/edit?usp=sharing)
  
 ### Colors
   * [color.adobe.com aka Kuler](https://color.adobe.com/)
